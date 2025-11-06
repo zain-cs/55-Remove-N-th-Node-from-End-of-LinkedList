@@ -1,3 +1,4 @@
+# ✅ Implementation of Remove N-th Node from End — for Singly Linked List
 class Node:
     def __init__(self, data):
         self.data = data
